@@ -5,17 +5,17 @@
     "Enabled": true
   },
   "100001": {
-    "OriginalText": "アークスで正式採用されている大剣。\n出力は抑えめだが、扱いやすい作りで\n多くのアークスに愛用されている。",
+    "OriginalText": "A big sword formally adopted in Arcs.\ nThe output is suppressed, but it is easy to handle\nis patronized by many Arks.",
     "Text": "",
     "Enabled": false
   },
   "100002": {
-    "OriginalText": "アークスで使用される改良型の大剣。\n基礎モデルより刀身が長いが、鍔が広く\n安定性が向上している。",
+    "OriginalText": "Improved large sword used in Arcs. \ n Although the blade is longer than the basic model, the brim is wider \ n the stability is improved.",
     "Text": "",
     "Enabled": false
   },
   "100003": {
-    "OriginalText": "アークスで使用される高性能の大剣。\n同型モデル中、最高の堅牢性と攻撃力を\n備え、熟練者に好んで使われている。",
+    "OriginalText": "A high performance large sword used in Arks.\n Within the same model, it has the highest robustness and attack power \ n, and it is used favorably by experts.",
     "Text": "",
     "Enabled": false
   },
